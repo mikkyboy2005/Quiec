@@ -1,7 +1,7 @@
 # Welcome to My Profile! 👋 
 ![https://t.me/fusuf](https://img.shields.io/badge/telegram-fusuf-blue) ![](https://img.shields.io/badge/main-php-blue) ![https://quiec.tech](https://img.shields.io/badge/my-blog-purple) ![Profile views](https://gpvc.arturio.dev/quiec)
 
-Hello! My name is **Yusuf Usta**. I have been writing codes sice 2016. Unlike PHP, I first started writing the VB.NET language. My first goal when writing code is the security of the code.
+Hello! My name is **Yusuf Usta**. I have been writing codes since 2016. Unlike PHP, I first started writing the VB.NET language. My first goal when writing code is the security of the code.
 
 **I write in PHP**,  If PHP is insufficient, I write **Python** or **JavaScript**. I also know more than the basics of System management (IT) and Pentest. The purpose of starting the software is that the Pentest tools I use are insufficient and I develop my own software.
 
@@ -15,7 +15,7 @@ Q | A
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Desktop, Mobile, Web, CLI`
 **Languages I know**  | `PHP, C#/VB.Net, JS, Python, V, C++`
-**Languages I learning** | `Go, Dart, Rust, Crystal, Swift, Ruby`
+**Languages I am learning** | `Go, Dart, Rust, Crystal, Swift, Ruby`
 
  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
